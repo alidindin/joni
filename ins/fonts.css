@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Flama-Bold';
+    src: url('../font/flama/Flama-Bold.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Flama-Semibold';
+    src: url('../font/flama/Flama-Semibold.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Flama-Medium';
+    src: url('../font/flama/Flama-Medium.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* test FoNT*/
+
+@font-face {
+    font-family: 'Arkitec-Bold';
+    src: url('../font/arkitech/Arkitec-Bold.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+}
